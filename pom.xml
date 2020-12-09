@@ -11,6 +11,12 @@
         <version>${android.version}</version>
       </dependency>
 
+    <dependency>
+        <groupId>mockito</groupId>
+        <artifactId>mockito_artifact</artifactId>
+        <version>${mockito.version}</version>
+      </dependency>
+
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit_artifact1</artifactId>
