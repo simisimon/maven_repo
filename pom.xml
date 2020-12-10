@@ -24,12 +24,6 @@
       </dependency>
 	  
       <dependency>
-        <groupId>org.easytesting</groupId>
-        <artifactId>fest-assert-core_artifact1</artifactId>
-        <version>${fest.version}</version>
-      </dependency>
-	  
-      <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
         <version>${guava.version}</version>
